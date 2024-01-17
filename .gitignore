@@ -1,0 +1,7 @@
+.env/
+.venv/
+.cache.sqlite
+node_modules/
+.envrc
+build/
+.ipynb_checkpoints/
